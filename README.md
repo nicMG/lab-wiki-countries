@@ -363,7 +363,7 @@ Instead of relying on the static data coming from a `json` file, let's do someth
 
   
 
-Let's make a `GET` request to the URL [https://restcountries.eu/rest/v2/name/all](https://restcountries.eu/rest/v2/name/all) and use the data returned from the response as the list of the countries. You can use either `fetch` or `axios` to make the request. You should use the `useEffect()` Hook to set an effect that runs only once and makes a request to the API.
+Let's make a `GET` request to the URL [https://restcountries.com/v3.1/all](https://restcountries.com/v3.1/all) and use the data returned from the response as the list of the countries. You can use either `fetch` or `axios` to make the request. You should use the `useEffect()` Hook to set an effect that runs only once and makes a request to the API.
 
   
 
